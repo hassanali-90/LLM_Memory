@@ -1,5 +1,5 @@
 # Robots Can Multitask Too: Integrating a Memory Architecture and LLMs for Enhanced Cross-Task Robot Action Generation
-This repository contains additional material to the paper titled:  [Robots Can Multitask Too: Integrating a Memory Architecture and LLMs for Enhanced Cross-Task Robot Action Generation](https://arxiv.org/abs/2407.13505) by Hassan Ali, Philipp Allgeuer, Carlo Mazzola, Giulia Belgiovine, Burak Can Kaplan, Lukáš Gajdošech, Stefan Wermter. The study was conducted in the Knowledge Technology (WTM) group at the University of Hamburg.
+This repository contains additional material to the paper titled:  [Robots Can Multitask Too: Integrating a Memory Architecture and LLMs for Enhanced Cross-Task Robot Action Generation](https://wtmbib.informatik.uni-hamburg.de/Basilic/publis/920/) by Hassan Ali, Philipp Allgeuer, Carlo Mazzola, Giulia Belgiovine, Burak Can Kaplan, Lukáš Gajdošech, Stefan Wermter. The study was conducted in the Knowledge Technology (WTM) group at the University of Hamburg.
 
 Work supported by Horizon Europe project TERAIS (Grant number 101079338), the DFG Crossmodal Learning (TRR-169) project, and Study Abroad Graduate Scholarship by Ministry of National Education of Türkiye.
 
