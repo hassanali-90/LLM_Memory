@@ -12,15 +12,20 @@ Code and Data will be published here soon.
 ## Citation
 To cite our paper, you can copy the following into your `.bib` file
 ```BibTeX
-@Article{ali2024robotsmultitasktoointegrating,
-      title={Robots Can Multitask Too: Integrating a Memory Architecture and LLMs for Enhanced Cross-Task Robot Action Generation}, 
-      author={Hassan Ali and Philipp Allgeuer and Carlo Mazzola and Giulia Belgiovine and Burak Can Kaplan and Lukáš Gajdošech and Stefan Wermter},
-      year={2024},
-      eprint={2407.13505},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2407.13505}, 
-}
+@InProceedings{AAMBKGW24, 
+ 	 author =  {Ali, Hassan and Allgeuer, Philipp and Mazzola, Carlo and Belgiovine, Giulia and Kaplan, Burak Can and Gajdošech, Lukáš and Wermter, Stefan},  
+ 	 title = {Robots Can Multitask Too: Integrating a Memory Architecture and LLMs for Enhanced Cross-Task Robot Action Generation}, 
+ 	 booktitle = {2024 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS)},
+ 	 journal = {},
+ 	 editors = {},
+ 	 number = {},
+ 	 volume = {},
+ 	 pages = {},
+ 	 year = {2024},
+ 	 month = {Nov},
+ 	 publisher = {},
+ 	 doi = {10.48550/arXiv.2407.13505}, 
+ }
 ```
 
 ## Contact
