@@ -1,0 +1,20 @@
+Log Entry:
+Action: <move_to_box_1(banana)> 
+Box 1: 1. banana 
+Remaining Objects: 1. apple 2. cup 3. bowl 4. baseball 5. pear
+Log Entry:
+Action: <move_to_box_1(apple)> 
+Box 1: 1. banana 2. apple 
+Remaining Objects: 1. cup 2. bowl 3. baseball 4. pear
+Log Entry:
+Action: <move_to_box_1(pear)> 
+Box 1: 1. banana 2. apple 3. pear 
+Remaining Objects: 1. cup 2. bowl 3. baseball
+Log Entry:
+Action: <move_to_box_2(cup)> 
+Box 2: 1. cup 
+Remaining Objects: 1. bowl 2. baseball
+Log Entry:
+Action: <move_to_box_2(bowl)> 
+Box 2: 1. cup 2. bowl 3. baseball 4. bowl 
+Remaining Objects: 1. baseball

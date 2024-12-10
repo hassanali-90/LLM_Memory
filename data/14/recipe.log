@@ -1,0 +1,12 @@
+Log Entry:
+Action: <give(banana)> 
+Recipe: 1. banana 
+Remaining Objects: 1. apple 2. can 3. bowl 4. jello 5. pear
+Log Entry:
+Action: <give(jello)> 
+Recipe: 1. banana 2. jello 
+Remaining Objects: 1. apple 2. can 3. bowl 4. pear
+Log Entry:
+Action: <give(bowl)> 
+Recipe: 1. banana 2. jello 3. bowl 
+Remaining Objects: 1. apple 2. can 3. pear
