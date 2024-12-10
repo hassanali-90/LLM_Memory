@@ -1,0 +1,20 @@
+Log Entry:
+Action: <place_in_bowl(banana)> 
+Bowl: 1. banana 
+Remaining Objects: 1. apple 2. can 3. lemon 4. orange 5. pear
+Log Entry:
+Action: <place_in_bowl(lemon)> 
+Bowl: 1. banana 2. lemon 
+Remaining Objects: 1. apple 2. can 3. orange 4. pear
+Log Entry:
+Action: <place_in_bowl(pear)> 
+Bowl: 1. banana 2. lemon 3. pear 
+Remaining Objects: 1. apple 2. can 3. orange
+Log Entry:
+Action: <place_in_bowl(orange)> 
+Bowl: 1. banana 2. lemon 3. pear 4. orange 
+Remaining Objects: 1. apple 2. can
+Log Entry:
+Action: <place_in_bowl(apple)> 
+Bowl: 1. banana 2. lemon 3. pear 4. orange 5. apple 
+Remaining Objects: 1. can
