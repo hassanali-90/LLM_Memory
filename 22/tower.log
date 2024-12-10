@@ -1,0 +1,16 @@
+Log Entry:
+Action: <put_on_tower(green cube)> 
+Tower: 1. green cube 
+Remaining Objects: 1. red cube 2. yellow cube 3. blue cube 4. black cube 5. white cube
+Log Entry:
+Action: <put_on_tower(blue cube)> 
+Tower: 1. green cube 2. blue cube 
+Remaining Objects: 1. red cube 2. yellow cube 3. black cube 4. white cube
+Log Entry:
+Action: <put_on_tower(yellow cube)> 
+Tower: 1. green cube 2. blue cube 3. yellow cube 
+Remaining Objects: 1. red cube 2. black cube 3. white cube
+Log Entry:
+Action: <put_on_tower(red cube)> 
+Tower: 1. green cube 2. blue cube 3. yellow cube 4. red cube 
+Remaining Objects: 1. black cube 2. white cube
